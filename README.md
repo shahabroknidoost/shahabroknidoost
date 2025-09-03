@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working on improving my front-end skills by building small web projects.  <br>🔍 I'm looking for a role as a front-end developer.  <br>📚 I'm getting hands-on experience with JavaScript and React through daily coding.  <br>😄 Fun fact: I moved from 3D art to web development.<br>
+💼 I'm currently working on improving my front-end skills by building small web projects.  <br>😄 Fun fact: I moved from 3D art to web development.<br>
 
 
 ## 🌐 Socials:
