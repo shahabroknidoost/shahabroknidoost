@@ -1,7 +1,10 @@
 # 💫 About Me:
-💼 I'm currently working on improving my front-end skills by building small web projects.  <br>😄 Fun fact: I moved from 3D art to web development.<br>
 
-
+🎨 Frontend Developer building AI-powered web apps with React
+🔗 REST API & AI Integration
+♿ Accessibility-focused (WCAG compliant)
+🧪 Testing enthusiast (Cypress, Vitest)
+📍 Based in Munich, Germany
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahabroknidoost/) 
 
