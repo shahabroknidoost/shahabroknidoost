@@ -5,6 +5,7 @@
 ♿ Accessibility-focused (WCAG compliant)
 🧪 Testing enthusiast (Cypress, Vitest)
 📍 Based in Munich, Germany
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahabroknidoost/) 
 
